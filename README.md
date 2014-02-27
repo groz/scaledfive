@@ -1,4 +1,5 @@
 scaledfive
 ==========
 
-Attempt at creating scalable multiplayer turn-based game.
+Attempts at implementing Reactive Manifesto in the form of simple multiplayer turn-based game. — Edit
+
